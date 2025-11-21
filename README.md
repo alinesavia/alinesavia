@@ -1,16 +1,50 @@
-## Hi there 👋
+🌟 Olá! Eu sou Aline Sávia
 
-<!--
-**alinesavia/alinesavia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedora em evolução, apaixonada por tecnologia, organização e criação de soluções que realmente fazem diferença.
+💻 Estudo desenvolvimento web e estou construindo meu portfólio com projetos reais, focados em boas práticas, responsividade e experiência do usuário.
+📚 Sempre aprendendo e buscando aprimorar minhas habilidades técnicas e profissionais.
 
-Here are some ideas to get you started:
+🚀 Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens e Marcação: HTML, CSS, JavaScript
+
+Ferramentas & Workflow: Git & GitHub, VS Code, Metodologias ágeis (Scrum/Kanban)
+
+Aprendendo no momento: Front-end moderno (React), Boas práticas de UI/UX, Organização e padronização de projetos, Integração com IA
+
+📌 Projetos em Destaque
+💼 Landing Page – Portfólio Pessoal
+
+Repositório com uma landing page moderna criada para apresentar meu trabalho.
+🔗 Adicione aqui o link do repositório quando estiver pronto para publicar.
+
+📚 Estudos de Front-end
+
+Repositório com exercícios, pequenos projetos e anotações enquanto estudo HTML, CSS e JavaScript.
+[https://alinesavia.github.io/landin-page-portfolio/]
+
+Em breve novos projetos!
+
+🧩 O que você vai encontrar no meu GitHub
+
+✔ Projetos simples e bem estruturados
+✔ Commits limpos e organizados
+✔ READMEs claros, com instruções e prints
+✔ Evolução contínua (aprendizado real e constante)
+
+✨ Sobre mim
+
+Moro no Brasil 🇧🇷
+
+Gosto de criar interfaces bonitas, funcionais e organizadas
+
+Tenho facilidade com escrita, documentação e atenção a detalhes
+
+Acredito que a tecnologia transforma vidas — inclusive a minha
+
+📫 Como falar comigo
+
+📍 LinkedIn: linkedin.com/in/alinesavia-tech
+📧 E-mail: enila.aivas@gmail.com
+
+feat: adicionar readme ao perfil
