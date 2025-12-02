@@ -43,5 +43,4 @@ Acredito que a tecnologia transforma vidas — inclusive a minha
 
 📍 LinkedIn: linkedin.com/in/alinesavia-tech
 📧 E-mail: enila.aivas@gmail.com
-
-feat: adicionar readme ao perfil
+🟢 Whatsapp: +5586994946202
