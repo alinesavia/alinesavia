@@ -16,12 +16,9 @@ Aprendendo no momento: Front-end moderno (React), Boas práticas de UI/UX, Organ
 💼 Landing Page – Portfólio Pessoal
 
 Repositório com uma landing page moderna criada para apresentar meu trabalho.
-🔗 Adicione aqui o link do repositório quando estiver pronto para publicar.
+🔗 [https://alinesavia.github.io/landin-page-portfolio/]
 
 📚 Estudos de Front-end
-
-Repositório com exercícios, pequenos projetos e anotações enquanto estudo HTML, CSS e JavaScript.
-[https://alinesavia.github.io/landin-page-portfolio/]
 
 Em breve novos projetos!
 
