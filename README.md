@@ -4,23 +4,19 @@
 💻 Estudo desenvolvimento web e estou construindo meu portfólio com projetos reais, focados em boas práticas, responsividade e experiência do usuário.
 📚 Sempre aprendendo e buscando aprimorar minhas habilidades técnicas e profissionais.
 
-🚀 Tecnologias & Ferramentas
+🚀 Stack
 
-Linguagens e Marcação: HTML, CSS, JavaScript
+Front-End: HTML • CSS • JavaScript • TypeScript • React • Next.js
+Back-End: Node.js • Express • APIs REST • CORS • Dotenv
+Ferramentas: Git • GitHub • Vercel
 
-Ferramentas & Workflow: Git & GitHub, VS Code, Metodologias ágeis (Scrum/Kanban)
-
-Aprendendo no momento: Front-end moderno (React), Boas práticas de UI/UX, Organização e padronização de projetos, Integração com IA
+🌱 Atualmente estudando Python e aprofundando conhecimentos para atuar como Desenvolvedora Full Stack.
 
 📌 Projetos em Destaque
-💼 Landing Page – Portfólio Pessoal
 
+💼 Landing Page – Portfólio Pessoal
 Repositório com uma landing page moderna criada para apresentar meu trabalho.
 🔗 [https://alinesavia.github.io/landin-page-portfolio/]
-
-📚 Estudos de Front-end
-
-Em breve novos projetos!
 
 🧩 O que você vai encontrar no meu GitHub
 
@@ -37,7 +33,7 @@ Gosto de criar interfaces bonitas, funcionais e organizadas
 
 Tenho facilidade com escrita, documentação e atenção a detalhes
 
-Acredito que a tecnologia transforma vidas — inclusive a minha
+Acredito que a tecnologia transforma vidas — inclusive a minha.
 
 📫 Como falar comigo
 
