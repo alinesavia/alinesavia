@@ -7,14 +7,16 @@ Sempre aprendendo e buscando aprimorar minhas habilidades técnicas e profission
 • Stack
 
   Front-End: HTML - CSS - JavaScript - TypeScript - React - Next.js
+  
   Back-End: Node.js - Express - APIs REST - CORS - Dotenv
+  
   Ferramentas: Git - GitHub - Vercel
 
 Atualmente estudando Python e aprofundando conhecimentos para atuar como Desenvolvedora Full Stack.
 
 • Projetos em Destaque
 
-- Landing Page – Portfólio Pessoal
+  Landing Page – Portfólio Pessoal
   Repositório com uma landing page moderna criada para apresentar meu trabalho.
    [https://alinesavia.github.io/landin-page-portfolio/]
 
